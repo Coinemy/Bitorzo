@@ -1,0 +1,2 @@
+# Bitorzo
+BitorzoX Bitcoin Wallet
